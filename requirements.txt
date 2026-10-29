@@ -1,0 +1,4 @@
+requests>=2.31.0
+
+# Optional: free automatic subtitles from speech
+faster-whisper>=1.0.0
